@@ -10,24 +10,18 @@ To understand how to work with files and handle errors effectively in Python pro
 
 🧠 Topics Covered
 
-File Handling in Python
-File modes (read, write, append, create)
-Reading and writing files
-Exception Handling
-Try-Except
-Else and Finally block
+File Handling in Python,
+File modes (read, write, append, create),
+Reading and writing files,
+Exception Handling,
+Try-Except,
+Else and Finally block,
 File handling with exception
 
-🎯 Tasks Included
-
-Task 1: Theory
-Task 2: File Handling Practice
-Task 3: Exception Handling Practice
-Task 4: Logic Challenge
 
 🚀 Outcome
 
-Understanding of file handling in Python
-Ability to read and write files
-Learned error handling using try-except
+Understanding of file handling in Python,
+Ability to read and write files,
+Learned error handling using try-except,
 Improved problem-solving skills
